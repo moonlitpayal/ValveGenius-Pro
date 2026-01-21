@@ -55,15 +55,15 @@ https://image2url.com/r2/default/videos/1768983317542-2828cc2c-0594-4d9e-8025-c1
 ### 2. AI Quote Engine & Revenue Projector
 *The heart of the sales acceleration. Select a client and product, and the system calculates a total price, generates a PDF quote, and projects the revenue impact based on current sales velocity.*
 
-<img src="https://image2url.com/r2/default/images/1768984458638-6cb21f25-4a2f-4bc4-9b47-5686c37d8e82.png" width="100%" alt="AI Quote Engine Interface with Revenue Projection" style="border-radius: 10px;">
+<img src="https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Image_to_url_V2/Screenshot-2026-01-21-133437-imagetourl.cloud-1769008035529-tbhp69.png" width="100%" alt="AI Quote Engine Interface with Revenue Projection" style="border-radius: 10px;">
 
 <br>
 
 ### 3. Zone-1 Hazard Simulator & 3D AR Preview
 *Safety and visualization tools for field engineers. The simulator auto-flags high-risk installations, while the 3D view allows for detailed inspection of complex DN600 valves before ordering.*
 
-<img src="https://image2url.com/r2/default/images/1768984490427-7522c718-6954-4596-bd0e-36a67d88910b.png" width="100%" alt="Hazard Simulator showing Zone 1 risk warning" style="border-radius: 10px; margin-bottom: 20px;">
-<img src="https://image2url.com/r2/default/images/1768984523872-48cfefc7-2802-41ce-8116-251ed7276c95.png" width="100%" alt="Interactive 3D AR View of a valve wireframe" style="border-radius: 10px;">
+<img src="https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Image_to_url_V2/Screenshot-2026-01-21-133509-imagetourl.cloud-1769008087724-zvlc4x.png" width="100%" alt="Hazard Simulator showing Zone 1 risk warning" style="border-radius: 10px; margin-bottom: 20px;">
+<img src="https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Image_to_url_V2/Screenshot-2026-01-21-133551-imagetourl.cloud-1769008136290-jz8mh9.png" width="100%" alt="Interactive 3D AR View of a valve wireframe" style="border-radius: 10px;">
 
 ---
 
