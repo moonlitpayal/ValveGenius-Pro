@@ -19,7 +19,7 @@ There was no trial and error. Just pure output. This dashboard is the result of 
 ### 🎯 The Mission: 130Cr → 1000Cr
 *A visual manifesto of Artee's growth trajectory, powered by intelligent automation.*
 
-[!Hero Section (https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Image_to_url_V2/Screenshot-2026-01-21-132826-imagetourl.cloud-1768983639825-k99d64.png)](https://image2url.com/r2/default/videos/1768983317542-2828cc2c-0594-4d9e-8025-c1fad9279172.mp4)
+<img src="https://image2url.com/r2/default/videos/1768983317542-2828cc2c-0594-4d9e-8025-c1fad9279172.mp4" width="100%" alt="Artee Flow Growth Trajectory Hero Section" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
 
 ---
 
@@ -27,7 +27,6 @@ There was no trial and error. Just pure output. This dashboard is the result of 
 
 *Watch the AI generate a ₹50 Lakh quote in under 3 seconds. This is the speed of modern sales.*'
 
-<img src="https://image2url.com/r2/default/videos/1768983317542-2828cc2c-0594-4d9e-8025-c1fad9279172.mp4 width="100%" alt="Artee Flow Growth Trajectory Hero Section" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
 
 
 ## 🧠 The "Why" & The Solution
