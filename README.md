@@ -48,7 +48,7 @@ https://image2url.com/r2/default/videos/1768983317542-2828cc2c-0594-4d9e-8025-c1
 *Real-time tracking of 50+ valve SKUs, including Exisol Gate, Ball, and Butterfly valves. Engineers can filter by pressure (150-2500 PSI) and ATEX certification instantly.*
 
 <img src= "https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Image_to_url_V2/Screenshot-2026-01-21-133340-imagetourl.cloud-1768984004610-ydjodp.png" width="100%" alt="Live Inventory Dashboard showing Exisol valves" style="border-radius: 10px; margin-bottom: 20px;">
-<img src= "https://instasize.com/p/27bd98b156688eddd658cd3b3ffe6cbf354d29436fe0679cb9a0eb023f00e830.png" width="100%" alt="More Inventory Cards showing Control and Safety Valves" style="border-radius: 10px;">
+<img src= "https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Image_to_url_V2/Screenshot-2026-01-21-133420-imagetourl.cloud-1769007978734-glizbw.png" width="100%" alt="More Inventory Cards showing Control and Safety Valves" style="border-radius: 10px;">
 
 <br>
 
