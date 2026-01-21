@@ -47,23 +47,23 @@ https://image2url.com/r2/default/videos/1768983317542-2828cc2c-0594-4d9e-8025-c1
 ### 1. Live Inventory Command Center
 *Real-time tracking of 50+ valve SKUs, including Exisol Gate, Ball, and Butterfly valves. Engineers can filter by pressure (150-2500 PSI) and ATEX certification instantly.*
 
-<img src="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/29289364/632d27ec-225e-4f15-ba43-5ae30afb1b75/image_17.png" width="100%" alt="Live Inventory Dashboard showing Exisol valves" style="border-radius: 10px; margin-bottom: 20px;">
-<img src="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/29289364/f9d0d31a-919f-47e4-b258-a3b994511652/image_18.png" width="100%" alt="More Inventory Cards showing Control and Safety Valves" style="border-radius: 10px;">
+<img src= "https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Image_to_url_V2/Screenshot-2026-01-21-133340-imagetourl.cloud-1768984004610-ydjodp.png" width="100%" alt="Live Inventory Dashboard showing Exisol valves" style="border-radius: 10px; margin-bottom: 20px;">
+<img src="https://image2url.com/r2/default/images/1768984387784-3d218f31-4598-4df2-be3c-530f909f3e6b.png" width="100%" alt="More Inventory Cards showing Control and Safety Valves" style="border-radius: 10px;">
 
 <br>
 
 ### 2. AI Quote Engine & Revenue Projector
 *The heart of the sales acceleration. Select a client and product, and the system calculates a total price, generates a PDF quote, and projects the revenue impact based on current sales velocity.*
 
-<img src="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/29289364/5d17c60f-1b66-452f-8d65-b16a90c33317/image_19.png" width="100%" alt="AI Quote Engine Interface with Revenue Projection" style="border-radius: 10px;">
+<img src="https://image2url.com/r2/default/images/1768984458638-6cb21f25-4a2f-4bc4-9b47-5686c37d8e82.png" width="100%" alt="AI Quote Engine Interface with Revenue Projection" style="border-radius: 10px;">
 
 <br>
 
 ### 3. Zone-1 Hazard Simulator & 3D AR Preview
 *Safety and visualization tools for field engineers. The simulator auto-flags high-risk installations, while the 3D view allows for detailed inspection of complex DN600 valves before ordering.*
 
-<img src="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/29289364/1956a9ae-39d5-4228-830c-431da4c84740/image_20.png" width="100%" alt="Hazard Simulator showing Zone 1 risk warning" style="border-radius: 10px; margin-bottom: 20px;">
-<img src="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/29289364/0e0413be-f567-4971-a65c-155b4b313611/image_21.png" width="100%" alt="Interactive 3D AR View of a valve wireframe" style="border-radius: 10px;">
+<img src="https://image2url.com/r2/default/images/1768984490427-7522c718-6954-4596-bd0e-36a67d88910b.png" width="100%" alt="Hazard Simulator showing Zone 1 risk warning" style="border-radius: 10px; margin-bottom: 20px;">
+<img src="https://image2url.com/r2/default/images/1768984523872-48cfefc7-2802-41ce-8116-251ed7276c95.png" width="100%" alt="Interactive 3D AR View of a valve wireframe" style="border-radius: 10px;">
 
 ---
 
