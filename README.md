@@ -27,7 +27,7 @@ There was no trial and error. Just pure output. This dashboard is the result of 
 
 *Watch the AI generate a ₹50 Lakh quote in under 3 seconds. This is the speed of modern sales.*'
 
-
+https://image2url.com/r2/default/videos/1768983317542-2828cc2c-0594-4d9e-8025-c1fad9279172.mp4
 
 ## 🧠 The "Why" & The Solution
 
