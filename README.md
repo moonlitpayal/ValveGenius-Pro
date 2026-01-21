@@ -69,4 +69,4 @@ https://github.com/user-attachments/assets/YOUR_VIDEO_FILENAME.mp4
 
 ---
 
-*Engineered by **Payal Dharma Mehta**. Powered by Caffeine and Curiosity.*
+*Engineered by **Payal Dharma Mehta**. Powered by Curiosity.*
